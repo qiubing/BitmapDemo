@@ -1,1 +1,1 @@
-include ':app', ':matrixdemo'
+include ':app', ':matrixdemo', ':drawabledemo'

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/bitmapdemo/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/drawabledemo/src/main/java/com/example/drawabledemo/MainActivity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/matrixdemo/src/main/java/com/example/matrixdemo/MainActivity.java" charset="UTF-8" />
   </component>
 </project>
